@@ -11,3 +11,8 @@ Some of my smol programs
 - Used to modify file name capitalization
 - Args: none  
 - Language: Java  
+
+**ModComposer**  
+- Used as an utility for Arma 3 server mod management (generates -mod params)
+- Args: none, GUI executable
+- Language: C#
